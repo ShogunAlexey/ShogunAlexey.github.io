@@ -22,7 +22,7 @@ hr {
 header.startup {
   background-position: center;
   background-color: black;
-  background-image: url('https://cdn.pixabay.com/photo/2015/03/26/10/58/apple-692186_960_720.jpg');
+  background-image: url('bg.jpg');
   background-size: cover;
   height: 100%;
 }
