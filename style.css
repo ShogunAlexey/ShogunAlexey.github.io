@@ -59,3 +59,8 @@ body {
   background-image: url('bg.jpg');
   background-size: cover;
 }
+
+#mc_embed_signup form {
+    display: block;
+    position: relative;
+    text-align: left;
