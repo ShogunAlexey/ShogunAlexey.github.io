@@ -3,10 +3,13 @@ body,
 html {
   width: 100%;
   height: 100%;
+  
 }
 
 body {
   font-family: 'Montserrat', sans-serif;
+  background-image: url('https://cdn.pixabay.com/photo/2015/03/26/10/58/apple-692186_960_720.jpg');
+  background-size:cover;
 }
 
 hr {
